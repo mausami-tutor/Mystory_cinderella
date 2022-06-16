@@ -1,0 +1,6 @@
+Hi this file contains the list of characters for my Story.
+1. Cinderella
+2. Prince
+3. Wicked stepmother
+4. fairy godmother
+
